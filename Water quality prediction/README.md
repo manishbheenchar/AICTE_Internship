@@ -55,3 +55,5 @@ The performance was found to be acceptable across all predicted parameters.
 ---
 
 ## Model link:
+
+```https://drive.google.com/file/d/1AQZcJuLvXvAfBgBlh0AQOTU2Dl0MgVDP/view?usp=sharing```
